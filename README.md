@@ -1,0 +1,1 @@
+# Exemplo javascript com Orientação Objeto
