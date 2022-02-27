@@ -1,4 +1,3 @@
-import { Cliente } from "./Cliente.js";
 import { Gerente } from "./funcionarios/Gerente.js";
 import { Diretor } from "./funcionarios/Diretor.js";
 import { SistemaAutenticacao } from "./SistemaAutenticacao.js";
