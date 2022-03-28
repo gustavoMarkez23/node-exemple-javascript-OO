@@ -22,7 +22,7 @@ O projeto tem como objetivo mostrar as principais interações entre classes pai
 ### Tecnologias utilizadas
 
 <div align="inline_block">
-  <a href="https://github.com/caroAlvim">
+  <a href="https://github.com/gustavoMarkez23">
 </div>
   
 <div style="display: inline_block"><br>
