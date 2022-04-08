@@ -9,7 +9,7 @@ export class Funcionario{
   }
 
   autenticar(senha){
-    senha = senha == this._senha;
+    return senha == this._senha;
   }
 
   cadastrarSenha(senha){
