@@ -31,4 +31,5 @@ O projeto tem como objetivo mostrar as principais interações entre classes pai
   <img title="Git" alt="Git" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img title="VScode" alt="VScode" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img title="GitHub" alt="GitHub" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img title="GitHub" alt="GitHub" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div><br>
