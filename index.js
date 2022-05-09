@@ -7,3 +7,5 @@ diretor.cadastrarSenha('1234');
 const gerente = new Gerente('Silva', 5000, 222222222222);
 
 console.log(SistemaAutenticacao.login(diretor, '1234'));
+console.log(diretor);
+console.log(gerente);
